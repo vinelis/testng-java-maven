@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 public class StepTest {
 
     private static final String GLOBAL_PARAMETER = "global value";
-
+// pruebita
     @Test
     public void annotatedStepTest() {
         annotatedStep("local value");
